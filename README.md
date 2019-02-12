@@ -1,2 +1,3 @@
-# Algorithm-2019-PA02
-Programming Assignment 02 of Algorithm 2019 
+# 프로그래밍 과제 02
+제출기한: 2019. 3. 9
+제출방법: 슬라이드 참조
